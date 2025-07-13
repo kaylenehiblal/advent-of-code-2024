@@ -1,0 +1,15 @@
+C:\Users\KHiblal\source\repos\Day09 - Part 2\bin\Debug\net8.0\Day09 - Part 2.exe
+C:\Users\KHiblal\source\repos\Day09 - Part 2\bin\Debug\net8.0\Day09 - Part 2.deps.json
+C:\Users\KHiblal\source\repos\Day09 - Part 2\bin\Debug\net8.0\Day09 - Part 2.runtimeconfig.json
+C:\Users\KHiblal\source\repos\Day09 - Part 2\bin\Debug\net8.0\Day09 - Part 2.dll
+C:\Users\KHiblal\source\repos\Day09 - Part 2\bin\Debug\net8.0\Day09 - Part 2.pdb
+C:\Users\KHiblal\source\repos\Day09 - Part 2\obj\Debug\net8.0\Day09 - Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHiblal\source\repos\Day09 - Part 2\obj\Debug\net8.0\Day09 - Part 2.AssemblyInfoInputs.cache
+C:\Users\KHiblal\source\repos\Day09 - Part 2\obj\Debug\net8.0\Day09 - Part 2.AssemblyInfo.cs
+C:\Users\KHiblal\source\repos\Day09 - Part 2\obj\Debug\net8.0\Day09 - Part 2.csproj.CoreCompileInputs.cache
+C:\Users\KHiblal\source\repos\Day09 - Part 2\obj\Debug\net8.0\Day09 - Part 2.dll
+C:\Users\KHiblal\source\repos\Day09 - Part 2\obj\Debug\net8.0\refint\Day09 - Part 2.dll
+C:\Users\KHiblal\source\repos\Day09 - Part 2\obj\Debug\net8.0\Day09 - Part 2.pdb
+C:\Users\KHiblal\source\repos\Day09 - Part 2\obj\Debug\net8.0\Day09 - Part 2.genruntimeconfig.cache
+C:\Users\KHiblal\source\repos\Day09 - Part 2\obj\Debug\net8.0\ref\Day09 - Part 2.dll
+C:\Users\KHiblal\source\repos\Day09 - Part 2\bin\Debug\net8.0\input.txt
